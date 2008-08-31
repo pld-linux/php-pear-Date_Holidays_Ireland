@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - Driver based class to calculate holidays in Ireland
 Summary(pl.UTF-8):	%{_pearname} - klasa do obliczania świąt irlandzkich
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
+Version:	0.1.1
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	e7db4969abe3e59e050a5d3530af8aa3
+# Source0-md5:	009d605732491a89b2a99ab57208370e
 URL:		http://pear.php.net/package/Date_Holidays_Ireland/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
